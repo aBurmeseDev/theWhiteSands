@@ -7,6 +7,7 @@ export default class FeaturedRooms extends Component {
     const { name, greeting } = this.context;
     return (
       <div>
+        //
         {greeting} {name} from the FeaturedRooms
       </div>
     );
